@@ -4,7 +4,7 @@ const btn = document.getElementById('btn');
 const categorySelect = document.getElementById('select-category');
 
 
-
+const button=document.querySelector('btn');
 
 // Add new task on button click
 btn.addEventListener('click', (event) => {
